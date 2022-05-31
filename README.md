@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning Python, JavaScript, D3.js
 
+## have a look at...
+- [A game of life study](https://conway-life-study.netlify.app/) made with React-App  ([repo](https://github.com/alpin111/game-of-life)
+- [A corporate slogan generator](https://corporate-dada.app/) made with Next.js  ([repo](https://github.com/alpin111/corporate-dadaism)
+
 
 ## I speak...
 (In order of fluency)
@@ -23,6 +27,7 @@
 - Linux
 - VSC
 - Next.js
+- React-App
 - React
 - Flask
 - MySQL
