@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋
 
 - 🔭 I’m currently working on:
 -  [rainfall](/alpin111/rainfall), a CLI animation, 
@@ -6,6 +6,30 @@
 
 
 - 🌱 I’m currently learning Python, JavaScript, D3.js
+
+
+# I speak...
+(In order of fluency)
+
+- Python
+- JavaScript
+- CSS
+- HTML
+- PHP
+
+# I've worked with...
+
+- git
+- Linux
+- VSC
+- Next.js
+- React
+- Flask
+- MySQL
+- SQLite
+- D3.js
+
+
 
 
 <!--
