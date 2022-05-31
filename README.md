@@ -5,7 +5,7 @@
 -  [holonoptic](https://glazial.itch.io/holonoptic), a video game with a nonlinear story set in a corporate simulation
 
 
-🌱 I’m currently learning Python, JavaScript, D3.js
+🌱 I’m currently learning Python & JavaScript
 
 ## have a look at...
 - [A game of life study](https://conway-life-study.netlify.app/) made with React-App  ([repo](https://github.com/alpin111/game-of-life))
@@ -32,7 +32,9 @@
 - Flask
 - MySQL
 - SQLite
+- REST API
 - D3.js
+- three.js
 
 
 
