@@ -26,6 +26,7 @@
 - git
 - Linux
 - VSC
+- Node.js
 - Next.js
 - React-App
 - React
