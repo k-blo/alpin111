@@ -4,7 +4,7 @@
 - [kblo.ch](https://kblo.ch), my portfolio website
 
 ## also have a look at...
-- [A corporate slogan generator](https://corporate-dada.app/) made with Next.js  ([repo](https://github.com/alpin111/corporate-dadaism))
+- [A corporate slogan generator](https://corporate-dada.kblo.ch/) made with Next.js  ([repo](https://github.com/alpin111/corporate-dadaism))
 - [holonoptic](https://glazial.itch.io/holonoptic), a video game with a nonlinear story set in a corporate simulation
 - [rainfall](https://github.com/alpin111/rainfall), a CLI animation
 - [A game of life study](https://conway-life-study.netlify.app/) made with React-App  ([repo](https://github.com/alpin111/game-of-life))
