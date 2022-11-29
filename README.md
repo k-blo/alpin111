@@ -1,7 +1,7 @@
 # Hello 👋
 
 🔭 I’m currently working on:
-- [kblo.ch](https://kblo.ch), my portfolio website
+- [kblo.ch](https://kblo.ch), my portfolio website (work in progress)
 
 ## also have a look at...
 - [A corporate slogan generator](https://corporate-dada.kblo.ch/) made with Next.js  ([repo](https://github.com/alpin111/corporate-dadaism))
