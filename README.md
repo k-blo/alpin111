@@ -1,41 +1,19 @@
 # Hello 👋
 
-🔭 I’m currently working on:
-- [kblo.ch](https://kblo.ch), my portfolio website (work in progress)
+## toys I use
+- :snake: python3, flask, FastApi, SQLAlchemy
+- :globe_with_meridians: HTML, CSS, vanilla JavaScript, TypeScript, React, Next.js
+- :gem: Ruby, Ruby on Rails
+- :whale: docker, docker-compose
+- :octocat: git, github workflows
+- :electron: SQL, MySQL, MariaDB
 
-## also have a look at...
+## have a look at
+- [kblo.ch](https://kblo.ch), my portfolio website
 - [A corporate slogan generator](https://corporate-dada.kblo.ch/) made with Next.js  ([repo](https://github.com/alpin111/corporate-dadaism))
 - [holonoptic](https://glazial.itch.io/holonoptic), a video game with a nonlinear story set in a corporate simulation
 - [rainfall](https://github.com/alpin111/rainfall), a CLI animation
 - [A game of life study](https://conway-life-study.netlify.app/) made with React-App  ([repo](https://github.com/alpin111/game-of-life))
-
-🌱 I’m currently learning Python & JavaScript
-
-## I speak...
-(In order of fluency)
-
-- Python
-- JavaScript
-- CSS
-- HTML
-- PHP
-
-## I've worked with...
-
-- git
-- Linux
-- VSC
-- Node.js
-- Next.js
-- React-App
-- React
-- Flask
-- MySQL
-- SQLite
-- REST API
-- D3.js
-- three.js
-
 
 
 
