@@ -1,6 +1,6 @@
 # Hello 👋
 
-## toys I use
+## technologies I use
 - :snake: python3, flask, FastApi, SQLAlchemy
 - :globe_with_meridians: HTML, CSS, vanilla JavaScript, TypeScript, React, Next.js
 - :gem: Ruby, Ruby on Rails
